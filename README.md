@@ -107,8 +107,6 @@ I am a **Software Development Engineer & AI Systems Architect** passionate about
 </div>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KDM14&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="96%" />
-</p>
 
 ---
 
